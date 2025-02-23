@@ -2,19 +2,21 @@
 /** multi line text
  */
 
-//console.log("Jake Barnard")
-//console.log(2+1)
-//var x = 4
-//console.log(x)
+//testing console.log code
+  //console.log("Jake Barnard")
+  //console.log(2+1)
+  //var x = 4
+  //console.log(x)
 
-//ES5
+//ES5 old version
 var a = 2
 
-//ES6
+//ES6 new version
 const b = 3
 let c = 4
 
-//+,-, / and *
+//+,-, / and * -> different changes
+//put into practice
 let num1 = 5
 let num2 = 10
 const result1 = num1 * num2
