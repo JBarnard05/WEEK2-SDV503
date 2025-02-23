@@ -1,0 +1,20 @@
+{
+  "name": "week2-sdv503",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBarnard05/WEEK2-SDV503.git"
+  },
+  "keywords": [],
+  "author": "Jake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBarnard05/WEEK2-SDV503/issues"
+  },
+  "homepage": "https://github.com/JBarnard05/WEEK2-SDV503#readme"
+}
